@@ -21,5 +21,10 @@ h1 {
 
 form {
     display: flex;
-    
+    flex-direction: column;
 }
+
+label {
+    margin-bottom: 5px;
+}
+
