@@ -34,3 +34,12 @@ input {
     border: none;
     border-radius: 5px;
 }
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+}
